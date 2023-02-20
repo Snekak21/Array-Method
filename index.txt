@@ -1,1 +1,4 @@
-                                                                Array.prototype.includes()
+                                                                 Array.prototype.includes()
+ 
+ 1. Fathima Saja S :
+        The includes() method checks a certain value is present in array or not. If the specific value is found, it returns true else returns false. 
