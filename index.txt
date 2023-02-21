@@ -45,9 +45,10 @@ When the element is present in multiple times in an array, it can be searched fr
 
                                                                  Array.isArray()
                                                                  
-   1. Fathima Saja S:
+ 1. Fathima Saja S:
                  Array.isArray() method checks if the passed value is present or not. If the passed value is numbers, strings, null, boolean values or undefined values not inside an array will return false.
-   2.Babisha V:
+                 
+ 2.Babisha V:
                It is used to check whether the passed value is an array or not.
                If the passed value is an array return true else return false.
         Syntax:
@@ -57,9 +58,10 @@ When the element is present in multiple times in an array, it can be searched fr
            
                                                                Array.prototype.reduce()
                                                                
-    1.Babisha V:
+1.Babisha V:
              This method executes a reducer function for array element.It gives single value as output.
 
 2. Fathima Saja S:
+            The reduce() method executes a callback function on every elements of an array and it will return one single output value.
               
      
