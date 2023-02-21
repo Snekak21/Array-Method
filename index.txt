@@ -1,1 +1,40 @@
+                                    includes() method:
+
+Name: Sneka
+
+The includes() method returns true if a string contains a specified string.
+
+Otherwise it returns false.
+
+The includes() method is case sensitive.
+
+Syntax:
+    string.includes(searchvalue, start)
+
+Parameters:
+    1. searchvalue--Required.The string to search for.
+    2. start--Optional.The position to start from.Default value is 0.
+
+
+                                    indexOf() method:
+Name: Sneka
+       To find the position of an element in an array, you use the indexOf() method.
+This method returns the index of the first occurrence the element that you want to find, 
+or -1 if the element is not found.
+
+Synatx:
+    Array.indexOf(searchElement, fromIndex)
+
+Parameters:
+   1. searchElement--The searchElement argument is the element that you want to find in the array.
+   2. fromIndex--The fromIndex is an array index at which the function starts the search.
+The fromIndex argument can be a positive or negative integer.In case you omit the fromIndex argument,
+ the indexOf() method starts searching from the begining of the string.
+
+
+Note: the index() of method use the strict equality comparison algorithm that is similar to the 
+triple-equals operator (===).
+
+
+                  
 
