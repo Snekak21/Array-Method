@@ -31,3 +31,14 @@
  1. Fathima Saja S:
               The indexOf() method gives the first index of the search element present in the array. If the element is not present in the array, it returns -1.
 When the element is present in multiple times in an array, it can be searched from a particular index by indexOf(searchElement, fromIndex). 
+
+
+
+
+
+
+
+                                                                 Array.isArray()
+                                                                 
+   1. Fathima Saja S:
+                 Array.isArray() method checks if the passed value is present or not.
