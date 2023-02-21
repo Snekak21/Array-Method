@@ -41,4 +41,4 @@ When the element is present in multiple times in an array, it can be searched fr
                                                                  Array.isArray()
                                                                  
    1. Fathima Saja S:
-                 Array.isArray() method checks if the passed value is present or not.
+                 Array.isArray() method checks if the passed value is present or not. If the passed value is numbers, strings, null, boolean values or undefined values not inside an array will return false.
