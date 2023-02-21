@@ -60,5 +60,6 @@ When the element is present in multiple times in an array, it can be searched fr
     1.Babisha V:
              This method executes a reducer function for array element.It gives single value as output.
 
-
+2. Fathima Saja S:
+              
      
