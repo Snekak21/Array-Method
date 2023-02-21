@@ -1,6 +1,6 @@
                                     includes() method:
 
-Name: Sneka
+Name: Sneka K
 
 The includes() method returns true if a string contains a specified string.
 
@@ -17,7 +17,7 @@ Parameters:
 
 
                                     indexOf() method:
-Name: Sneka
+Name: Sneka K
        To find the position of an element in an array, you use the indexOf() method.
 This method returns the index of the first occurrence the element that you want to find, 
 or -1 if the element is not found.
@@ -36,5 +36,13 @@ Note: the index() of method use the strict equality comparison algorithm that is
 triple-equals operator (===).
 
 
-                  
+                                    isArray() method:
+Name: Sneka K
+
+arr.isArray() method determines whether the value passed to this function is an array or not. 
+This function returns true if the argument passed is an array else it returns false.
+
+Syntax:
+
+Array.isArray(obj)
 
