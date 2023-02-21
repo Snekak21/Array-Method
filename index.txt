@@ -32,7 +32,12 @@
               The indexOf() method gives the first index of the search element present in the array. If the element is not present in the array, it returns -1.
 When the element is present in multiple times in an array, it can be searched from a particular index by indexOf(searchElement, fromIndex). 
 
-
+ 2. Babisha V:
+             This method is used to get the first index of the search element.If the search element is not present in an array,it returns -1.
+             If present return the index value.
+        Syntax:     
+             indexOf(searchElement)
+             indexOf(searchElement, fromIndex)// fromIndex:default 0
 
 
 
