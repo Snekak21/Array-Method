@@ -4,6 +4,24 @@
         The includes() method checks a certain value is present in array or not. If the specific value is found, it returns true else returns false. 
         
  2.Babisha V:
+       It is used to check whether the certain value is present in an array.
+       It returns true or false.
+       Syntax:
+         includes(searchElement)
+         includes(searchElement, fromIndex)
+       The index value and the values after the index value is checked for search element,
+       Examples:
+          const array1 = [1, 2, 3];
+          console.log(array1.includes(2));// true
+       Condition:
+           fromIndex > array length (array is not searched)// false
+           computed index=length+index (complete array is checked)
+           fromIndex < 0 (fromIndex+array length is used)
+           fromIndex>= array length// false
+       Example:
+           const array1 = [1, 2, 3];//array.length=3
+           console.log(array1.includes(2,-2));// true
+           //(3+(-2))=1
        
 
 
