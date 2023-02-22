@@ -60,3 +60,8 @@ Name: Fathima Saja
            The reduce() method executes a callback function on every elements of an array and it 
            will return one single output value.
 
+
+                                                                Array.prototype.indexOf()
+Name: Haritha Shalu
+            The indexOf() method print the index value of an array if that present in the original array as an positive number that start with 0.
+            If the assigned array is not present the array it will show the negative values.
