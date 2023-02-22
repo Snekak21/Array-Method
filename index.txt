@@ -60,6 +60,14 @@ Name: Fathima Saja
 
 
                                                                Array.prototype.reduce()
+Name: Sneka K
+       
+    The reduce() method process all the element in an array and finaly it will produce the single value.
+
+Synatx: 
+    array.reduce(callbackFn[, initialValue])
+callbackFn has the following syntax:
+    function callbackFn(previousValue,CurrentValue,currentIndex,array){/**/}
 
 Name: Fathima Saja 
            The reduce() method executes a callback function on every elements of an array and it 
