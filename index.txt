@@ -1,4 +1,4 @@
-                                                                   includes() method:
+                                                             includes() method:
 
 Name: Sneka K
 
