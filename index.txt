@@ -106,6 +106,7 @@ Name: Fathima Saja
            will return one single output value.
 
 Name: Babisha V           
-        This method executes a reducer function for array element.It gives single value as output
-
+        This method executes a reducer function for array element.It gives single value as output.
+    Syntax:
+      array.reduce(accumulator,current value);
                                                                
