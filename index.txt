@@ -1,4 +1,4 @@
-                                    includes() method:
+                                                                   includes() method:
 
 Name: Sneka K
 
@@ -16,7 +16,7 @@ Name: Fathima Saja S
       The includes() method checks a certain value is present in array or not. 
       If the specific value is found, it returns true else returns false. 
 
-                                    indexOf() method:
+                                                                  indexOf() method:
 Name: Sneka K
        To find the position of an element in an array, you use the indexOf() method.
 This method returns the index of the first occurrence the element that you want to find, 
@@ -40,7 +40,7 @@ Name: Fathima Saja
           multiple times in an array, it can be searched from a particular index by indexOf(searchElement, fromIndex).
 
 
-                                    isArray() method:
+                                                                 isArray() method:
 Name: Sneka K
 
 arr.isArray() method determines whether the value passed to this function is an array or not. 
@@ -54,7 +54,7 @@ Name: Fathima Saja
          strings, null, boolean values or undefined values not inside an array will return false.
 
 
-                                     Array.prototype.reduce()
+                                                               Array.prototype.reduce()
 
 Name: Fathima Saja 
            The reduce() method executes a callback function on every elements of an array and it 
