@@ -40,9 +40,6 @@
              indexOf(searchElement, fromIndex)// fromIndex:default 0
 
 
-
-
-
                                                                  Array.isArray()
                                                                  
  1. Fathima Saja S:
@@ -54,7 +51,6 @@
                If the passed value is an array return true else return false.
         Syntax:
            Array.isArray(value)
-           
            
            
                                                                Array.prototype.reduce()
