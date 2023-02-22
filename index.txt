@@ -39,6 +39,11 @@ Name: Fathima Saja
           If the element is not present in the array, it returns -1. When the element is present in
           multiple times in an array, it can be searched from a particular index by indexOf(searchElement, fromIndex).
 
+Name: Haritha Shalu
+            The indexOf() method print the index value of an array if that present in the original array as an positive number that start with 0.
+            If the assigned array is not present the array it will show the negative values.
+
+
 
                                                                  isArray() method:
 Name: Sneka K
@@ -61,7 +66,4 @@ Name: Fathima Saja
            will return one single output value.
 
 
-                                                                Array.prototype.indexOf()
-Name: Haritha Shalu
-            The indexOf() method print the index value of an array if that present in the original array as an positive number that start with 0.
-            If the assigned array is not present the array it will show the negative values.
+                                                               
