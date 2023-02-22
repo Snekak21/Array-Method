@@ -16,6 +16,27 @@ Name: Fathima Saja S
       The includes() method checks a certain value is present in array or not. 
       If the specific value is found, it returns true else returns false. 
 
+Name: Babisha V
+       It is used to check whether the certain value is present in an array.
+       It returns true or false.
+       Syntax:
+         includes(searchElement)
+         includes(searchElement, fromIndex)
+       The index value and the values after the index value is checked for search element,
+       Examples:
+          const array1 = [1, 2, 3];
+          console.log(array1.includes(2));// true
+       Condition:
+           fromIndex > array length (array is not searched)// false
+           computed index=length+index (complete array is checked)
+           fromIndex < 0 (fromIndex+array length is used)
+           fromIndex>= array length// false
+       Example:
+           const array1 = [1, 2, 3];//array.length=3
+           console.log(array1.includes(2,-2));// true
+           //(3+(-2))=1
+       
+       
                                                                   indexOf() method:
 Name: Sneka K
        To find the position of an element in an array, you use the indexOf() method.
@@ -43,6 +64,12 @@ Name: Haritha Shalu
             The indexOf() method print the index value of an array if that present in the original array as an positive number that start with 0.
             If the assigned array is not present the array it will show the negative values.
 
+Name: Babisha V            
+        This method is used to get the first index of the search element.If the search element is not present in an array,it returns -1.
+             If present return the index value.
+        Syntax:     
+             indexOf(searchElement)
+             indexOf(searchElement, fromIndex)// fromIndex:default 0    
 
 
                                                                  isArray() method:
@@ -58,6 +85,11 @@ Name: Fathima Saja
          Array.isArray() method checks if the passed value is present or not. If the passed value is numbers, 
          strings, null, boolean values or undefined values not inside an array will return false.
 
+Name: Babisha V         
+         It is used to check whether the passed value is an array or not.
+               If the passed value is an array return true else return false.
+        Syntax:
+           Array.isArray(value);
 
                                                                Array.prototype.reduce()
 Name: Sneka K
@@ -73,5 +105,7 @@ Name: Fathima Saja
            The reduce() method executes a callback function on every elements of an array and it 
            will return one single output value.
 
+Name: Babisha V           
+        This method executes a reducer function for array element.It gives single value as output
 
                                                                
