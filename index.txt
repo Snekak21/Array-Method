@@ -35,6 +35,11 @@ Name: Babisha V
            const array1 = [1, 2, 3];//array.length=3
            console.log(array1.includes(2,-2));// true
            //(3+(-2))=1
+
+Name: Haritha Shalu 
+
+        The includes() method checks an element whether the given element is present in the array or not.
+        If the element is Present in the array it will return true statement else if will return the false statement.
        
        
                                                                   indexOf() method:
