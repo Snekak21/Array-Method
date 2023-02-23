@@ -61,8 +61,8 @@ Name: Fathima Saja
           multiple times in an array, it can be searched from a particular index by indexOf(searchElement, fromIndex).
 
 Name: Haritha Shalu
-            The indexOf() method print the index value of an array if that present in the original array as an positive number that start with 0.
-            If the assigned array is not present the array it will show the negative values.
+            The indexOf() method print the index value of an element if that present in the original array as an positive number that start with 0.
+            If the assigned element is not present in the array it will return -1 .
 
 Name: Babisha V            
         This method is used to get the first index of the search element.If the search element is not present in an array,it returns -1.
